@@ -72,7 +72,7 @@ class _AdminState extends State<Admin> {
                                           fillColor: Color(0xffDCDCDC), filled: true,
 
                                           hintText: 'Insert Image',
-
+//ssd
 
                                           border: OutlineInputBorder(
                                             borderRadius: BorderRadius.only(topLeft: Radius.circular(50))
