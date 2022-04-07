@@ -174,7 +174,7 @@ class _PredictState extends State<Predict> {
                       ),
                     ],
                   ),
-                ),
+                ),//as
                 Center(
                   child: InkWell(
                     onTap: (){Navigator.push(context, MaterialPageRoute(builder: (context) => RingPredict()));},
